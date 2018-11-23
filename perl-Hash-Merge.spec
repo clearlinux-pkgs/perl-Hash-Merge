@@ -4,7 +4,7 @@
 #
 Name     : perl-Hash-Merge
 Version  : 0.300
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Hash-Merge-0.300.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Hash-Merge-0.300.tar.gz
 Summary  : 'Merges arbitrarily deep hashes into a single hash'
