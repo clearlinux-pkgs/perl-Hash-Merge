@@ -4,10 +4,10 @@
 #
 Name     : perl-Hash-Merge
 Version  : 0.300
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Hash-Merge-0.300.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Hash-Merge-0.300.tar.gz
-Summary  : 'Merges arbitrarily deep hashes into a single hash'
+Summary  : Merges arbitrarily deep hashes into a single hash
 Group    : Development/Tools
 License  : Artistic-1.0-Perl
 BuildRequires : buildreq-cpan
@@ -22,6 +22,7 @@ Hash::Merge - Merges arbitrarily deep hashes into a single hash
 Summary: dev components for the perl-Hash-Merge package.
 Group: Development
 Provides: perl-Hash-Merge-devel = %{version}-%{release}
+Requires: perl-Hash-Merge = %{version}-%{release}
 
 %description dev
 dev components for the perl-Hash-Merge package.
