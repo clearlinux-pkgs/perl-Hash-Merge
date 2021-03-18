@@ -4,7 +4,7 @@
 #
 Name     : perl-Hash-Merge
 Version  : 0.302
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/H/HE/HERMES/Hash-Merge-0.302.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/H/HE/HERMES/Hash-Merge-0.302.tar.gz
 Summary  : 'Merges arbitrarily deep hashes into a single hash'
@@ -83,4 +83,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Hash/Merge.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Hash/Merge.pm
