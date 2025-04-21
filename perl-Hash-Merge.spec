@@ -7,7 +7,7 @@
 #
 Name     : perl-Hash-Merge
 Version  : 0.302
-Release  : 29
+Release  : 30
 URL      : https://cpan.metacpan.org/authors/id/H/HE/HERMES/Hash-Merge-0.302.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/H/HE/HERMES/Hash-Merge-0.302.tar.gz
 Summary  : 'Merges arbitrarily deep hashes into a single hash'
